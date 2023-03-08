@@ -1,6 +1,6 @@
 # Plato Pizza Store - 2015 Analysis
 
-![](intro_img.png)
+![](intro_image.png)
 
 ## Introduction
 
