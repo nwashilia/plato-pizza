@@ -1,4 +1,4 @@
-# Plato Pizza Store - 2015 Analysis
+# Plato's Pizza Store Analysis
 
 ![](intro_image.png)
 
