@@ -93,7 +93,7 @@ Either a lot of people didn't get out of bed on time or they don't like having b
 #### The Crowd's favourite... and not so favourite
 Although the Large pizzas pulled a generally large following across the board, **Big Meat's 🥩🍕 Small** definitely touched the right spots on customers' taste buds. It was ordered a whooping 1914 times, exceeding it's closest competition by a 26%.
 Other honourable mentions are the **Thai Chicken Large** and the **Five Chicken Large**.
-On the flip side, the **Greek XXL** (28 sold in a year) and the **Green Garden Large** (95 sold in the year) sealed the bottom of this class; it got me wondering if its a **G** thing 🤔 💭.
+On the flip side, the **Greek XXL** (28 sold in a year) and the **Green Garden Large** (95 sold in the year) sealed the bottom of this class; it got me wondering if it is a **G** thing 🤔 💭.
 
 ## Conclusion and Recommendations
 With only **11.76%**  of their capacity being used, there is definitely **a whole lotta room for "improvement"**.
