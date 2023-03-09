@@ -18,7 +18,7 @@ After discussions with my client (The sales team of Plato's Pizza 😆; I even h
 2. How many pizzas are being made during peak periods?
 3. What are their best and worst selling pizzas?
 4. What is their average order value (AOV)?
-5. How well are they utilizing their seat capacity.
+5. How well are they utilizing their seat capacity?
 
 ## Skills/Concepts Demonstrated
 
@@ -77,7 +77,7 @@ In the course of making this granular research, I noticed that there was a "good
 #### Finger Licking Slice
 The top selling flavour is the **Thai Chicken pizza**. While Thai Chicken still held its own as its Large came out as top seller, the **Greek XXL** tumbled to the bottom of the sales race.
 Still on the size matter, the **Big Meat Small 🥩🍕** came out the crowd favourite with a whooping **1914 total sales in the year** (more on this in the extended Dashboard).
-On a whole, the Larges had a high demand through the months; sadly the larger guys (XXLs) didn't have as much customer appeal; barely pulling though each month and not even being asked for in the sale booming month of July. 😢
+On a whole, the Large sizes had a high demand through the months; sadly the larger guys (XXLs) didn't have as much customer appeal; barely pulling though each month and not even being asked for in the sale booming month of July. 😢
 
 #### Busy O'clock
 Looking into the data, it was obvious that the busiest days of the week were **Thursday, Friday and Saturday**; who wouldn't want to chill after a long week... 😃
