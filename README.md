@@ -108,6 +108,8 @@ With only **11.76%**  of their capacity being used, there is definitely **a whol
 
 #dataanalytics #powerbi #datavisualisation #businessinsights #datainsights #dataanalysis
 
+You can connect with me on [Twitter](https://twitter.com/emmanwashili)
+
 ------------
 
 **Shout out and Attributions:**
