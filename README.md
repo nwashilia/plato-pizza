@@ -106,7 +106,7 @@ With only **11.76%**  of their capacity being used, there is definitely **a whol
 5. I would love to get more data on your customers to build profiles and patterns that can be used in making decisions on what kind of promotions would appeal to them so as to fill up the room. This data would include age, location, gender, marital status, etc. Also, I would like to get data about the cost of production of each pizzas so as to ascertain their actual profitability.
 
 
-#dataanalytics #powerbi #datavisualisation #businessinsights #datainsights #data analysis
+#dataanalytics #powerbi #datavisualisation #businessinsights #datainsights #dataanalysis
 
 ------------
 
